@@ -1,4 +1,4 @@
-![Lokesh Goenka](https://img.shields.io/badge/Shin--Young--Lee-%23ff7eb3?style=for-the-badge&logo=github&labelColor=%237a65ff)
+![Lokesh Goenka](https://img.shields.io/badge/Lokesh-Goenka-%23ff7eb3?style=for-the-badge&logo=github&labelColor=%237a65ff)
 
 
 
