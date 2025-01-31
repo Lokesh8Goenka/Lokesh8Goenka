@@ -1,4 +1,5 @@
-# Lokesh Goenka
+![Lokesh Goenka](https://img.shields.io/badge/Shin--Young--Lee-%23ff7eb3?style=for-the-badge&logo=github&labelColor=%237a65ff)
+
 
 
 ## Hi! I'm Lokesh Goenka 👋
