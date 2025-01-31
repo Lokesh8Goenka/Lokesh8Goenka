@@ -1,4 +1,4 @@
-![Lokesh Goenka](https://raw.githubusercontent.com/Lokesh8Goenka/Lokesh8Goenka/main/animated-banner.svg)
+![Lokesh Goenka](https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/animated-banner.svg)
 
 
 
