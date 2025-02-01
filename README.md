@@ -14,7 +14,7 @@
 ---
 
 ### 📜 Certificates 📜  
-<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4.pdf" width="300" />
+<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4_page-0001.jpg" width="300" />
 <img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/CDR.jpg" width="300" />
 
 ---
