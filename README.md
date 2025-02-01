@@ -1,9 +1,5 @@
 <div align="center">
 
-[![Lokesh Goenka Banner](https://raw.githubusercontent.com/Lokesh8Goenka/Lokesh8Goenka/main/animated-banner.svg)](https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/animated-banner.svg)
-
-
-
 ## Hi! I'm Lokesh Goenka 👋  
 🚀 **Data Science & Computing**
 
