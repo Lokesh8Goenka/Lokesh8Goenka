@@ -1,5 +1,5 @@
 <div align="center">
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Lokesh_Goenka&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 ## Hi! I'm Lokesh Goenka 👋  
 🚀 **Data Science & Computing**
 
@@ -14,8 +14,8 @@
 ---
 
 ### 📜 Certificates 📜  
-<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4_page-0001.jpg" width="300" />
-<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/CDR.jpg" width="300" />
+<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/Coursera%202YNEG9NN57U4_page-0001.jpg" width="30%" />
+<img src="https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/CDR.jpg" width="30%" />
 
 ---
 
