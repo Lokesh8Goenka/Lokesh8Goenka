@@ -1,8 +1,6 @@
 ![Lokesh Goenka](https://github.com/Lokesh8Goenka/Lokesh8Goenka/blob/main/animated-banner.svg)
 
 
-
-
 ## Hi! I'm Lokesh Goenka 👋
 
 🚀 **Data Science & Computing**
@@ -30,12 +28,12 @@
 ### 👨‍💻 My Github Stats 👨‍💻
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokesh8Goenka&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh8Goenka&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lokesh8Goenka&theme=dark)
 
 
 ### 📌 Popular repositories  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Gas-Supply-Forecast-using-Deep-Learning&theme=dark)](https://github.com/Lokesh8Goenka/Lokesh_Goenka)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=Gas-Supply-Forecast-using-Deep-Learning&theme=dark)]
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=geniemarket-RFM-analysis&theme=dark)](https://github.com/Lokesh8Goenka/Fine_Tuning---Llama-3.1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=geniemarket-RFM-analysis&theme=dark)]
 
