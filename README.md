@@ -38,10 +38,10 @@
 ### 📌 Popular repositories  
 ## 🔥 Most Popular Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=yourrepo&theme=dark)](https://github.com/Lokesh8Goenka/Fine_Tuning---Llama-3.1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=Fine_Tuning---Llama-3.1&theme=dark)](https://github.com/Lokesh8Goenka/Fine_Tuning---Llama-3.1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=yourrepo2&theme=dark)](https://github.com/Lokesh8Goenka/Lokesh_Goenka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=Lokesh_Goenka&theme=dark)](https://github.com/Lokesh8Goenka/Lokesh_Goenka)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=yourrepo2&theme=dark)](https://github.com/Lokesh8Goenka/storEtellor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lokesh8Goenka&repo=storEtellor&theme=dark)](https://github.com/Lokesh8Goenka/storEtellor)
 
 
