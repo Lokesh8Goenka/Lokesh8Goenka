@@ -30,7 +30,7 @@
 ### 👨‍💻 My Github Stats 👨‍💻
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokesh8Goenka&show_icons=true&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lokesh8Goenka&theme=dark)
 
 
