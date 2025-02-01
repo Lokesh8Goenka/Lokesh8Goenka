@@ -29,9 +29,9 @@
 
 ### 👨‍💻 My Github Stats 👨‍💻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokesh8Goenka&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lokesh8Goenka&theme=dark)
 
 
 ### 📌 Popular repositories  
