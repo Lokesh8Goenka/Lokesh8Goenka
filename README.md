@@ -34,6 +34,11 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Lokesh8Goenka&theme=radical)
+
+---
+
 ### 📌 Popular repositories  
 ## 🔥 Most Popular Repositories  
 
